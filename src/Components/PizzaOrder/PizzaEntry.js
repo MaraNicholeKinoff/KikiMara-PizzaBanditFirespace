@@ -38,7 +38,7 @@ class PizzaEntry extends Component {
     }
 
     render() {
-
+        
         const selected_pizza = this.props.pizza_type;
 
         return (

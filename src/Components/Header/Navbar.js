@@ -24,7 +24,7 @@ const Navbar = (props) => {
 
     return(
         <div className="navbar navbar-expand-sm bg-dark navbar-dark fixed-top">
-            <a className="navbar-brand" href="#">Pizza Bandit!</a>                    
+            <a className="navbar-brand" href="/">Pizza Bandit!</a>                    
             <ul className="nav navbar-nav mr-auto" >
                 <li className="nav-item">
                     <Link className="nav-link" to="/">Home</Link>
